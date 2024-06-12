@@ -62,7 +62,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item mr-3"><a class="nav-link" href="index.php">HOME</a></li>
-                <li class="nav-item mr-3"><a class="nav-link" href="patients.php">PATIENTS</a></li>
+                <li class=" nav-item mr-3"><a class="nav-link" href="patients.php">PATIENTS</a></li>
                 <li class="nav-item mr-3"><a class="nav-link" href="doctors.php">DOCTORS</a></li>
                 <li class="nav-item mr-3"><a class="nav-link" href="appointments.php">APPOINTMENT</a></li>
                 <li class="nav-item mr-3"><a class="nav-link" href="login.php">LOGIN</a> </li>
